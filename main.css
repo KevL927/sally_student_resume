@@ -1,0 +1,14 @@
+section {
+  padding: 20px;
+}
+
+figcaption{
+  font-size: 14px;
+}
+
+#container {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+  text-align: center
+}
